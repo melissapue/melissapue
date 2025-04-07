@@ -30,14 +30,3 @@ A full-stack AI-powered branding assistant that guides users through a personali
 
 
 ---
-
-## 💌 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- [Instagram](https://instagram.com/whoisophilia)  
-- [Ophilia](https://ophilia.io) — coming soon™
-
----
-
-> “From idea to impact — and occasionally back again.”  
-(*and yes, I wrote that while sipping coffee with too many tabs open.*)
