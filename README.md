@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey, I'm Melissa 👋  
+· Full-stack dev · Psychology grad turned coder  
+Currently building **Ophilia** — a branding assistant for creative minds 🎨🧠
 
-<!--
-**melissapue/melissapue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✨ What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently graduated from the [UpLeveled](https://upleveled.io) Web Dev Bootcamp, and now I'm:
+
+- 👩‍💻 Coding full-stack apps with **Next.js + TypeScript**
+- 💡 Exploring how to combine **AI + psychology** for better user experiences
+- 🎨 Designing interfaces that feel a little ✏️ sketchy (in a good way)
+- 🧠 Learning out loud
+
+---
+
+## 🛠️ Current Tech Stack
+
+- **Frontend**: Next.js · React · TailwindCSS · Framer Motion  
+- **Backend**: PostgreSQL · Prisma · Zod · REST APIs  
+- **Toolbox**: TypeScript · Playwright · Vitest · Figma · Framer
+
+---
+
+## 🧪 Currently Working On
+
+### 🧠 [Ophilia]([https://github.com/melissapue/buildophilia.git])
+A full-stack AI-powered branding assistant that guides users through a personalized journey of self-discovery, storytelling, and brand identity creation.
+
+
+---
+
+## 💌 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+- [Instagram](https://instagram.com/whoisophilia)  
+- [Ophilia](https://ophilia.io) — coming soon™
+
+---
+
+> “From idea to impact — and occasionally back again.”  
+(*and yes, I wrote that while sipping coffee with too many tabs open.*)
